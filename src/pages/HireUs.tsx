@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion';
-import { Users, Clock, Briefcase, CheckCircle2, ArrowRight, Calendar, MessageSquare, Code2, Rocket } from 'lucide-react';
+import { Users, Clock, Briefcase, CheckCircle2, Calendar, MessageSquare, Code2, Rocket } from 'lucide-react';
 
 const fadeIn = {
   hidden: { opacity: 0, y: 30 },
