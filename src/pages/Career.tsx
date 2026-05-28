@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-import { Briefcase, ArrowRight, Heart, Zap, Globe, Laptop, GraduationCap, Coffee, CheckCircle2, ChevronDown, ChevronUp } from 'lucide-react';
+import { ArrowRight, Heart, Zap, Globe, Laptop, GraduationCap, Coffee, ChevronDown, ChevronUp } from 'lucide-react';
 
 const fadeIn = {
   hidden: { opacity: 0, y: 30 },
