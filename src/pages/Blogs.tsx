@@ -1,7 +1,6 @@
 import { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { Search, ArrowRight, Calendar, Clock, Tag } from 'lucide-react';
-import { Link } from 'react-router-dom';
 
 const fadeIn = {
   hidden: { opacity: 0, y: 30 },
